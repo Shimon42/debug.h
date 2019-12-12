@@ -54,9 +54,6 @@
 #define UGREY	"\033[4;90m"
 #define UPURP	"\033[4;94m"
 
-// ----- UNDERLINE COLORS --
-
-#define TWHT	"\033[1;100m"
 // ----- HIGHLIGHT COLORS --
 #define HWHT	"\033[7;1m"
 #define HRED	"\033[7;31m"
